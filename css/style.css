@@ -1,6 +1,6 @@
 .bannerBgImage{
     height: 100vh;
-    background: url("css/bannerImage.jpg");
+    background: url("bannerImage.jpg");
     background-size: cover;
     position: relative; 
 }
@@ -17,7 +17,7 @@
 .bannerTitle{
     font-size: 2rem;
 }
-.bannerDes{
+.bannerDesc{
     font-size: 2rem;
 }
 #Skills{
